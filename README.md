@@ -1,2 +1,2 @@
 # DataStructures
-Implement data structures such as linked lists, stacks, and queues in C language.
+Implement data structures such as lists, stacks, queues and trees in C language.
